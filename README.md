@@ -1,14 +1,76 @@
 <h1 align="center">Hi 👋, I'm Ratana</h1>
-<h3 align="center">A Software Developer passionate about game development and web development</h3>
 
-- 💬 Ask me about **Unity, Godot**
+<h3 align="center">
+  Creative Technologist | Software & Game Developer | Digital Media Creator
+</h3>
 
-- 📫 How to reach me **rithratana.hang@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rithratana-hang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rithratana-hang" height="30" width="40" /></a>
+<p align="center">
+  Bringing technology and creativity together through interactive experiences,
+  immersive media, and digital storytelling.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rithratana-hang/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rithratana.hang@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a creative and technically minded professional with experience across **software development, game development, video production, and digital media**.
+
+I enjoy combining technical problem-solving with creative thinking to build engaging digital experiences, from interactive games and immersive technologies to modern web applications and visual storytelling.
+
+I'm constantly exploring new technologies, learning new tools, and turning ideas into meaningful and impactful experiences.
+
+- 🥽 Currently working as a **VR & Game Developer at CADT**
+- 🎮 Previously worked in game development at **ByteFarm** and **DirexPlay**
+- 🎬 Experienced in **Photography, Videography & Digital Media Production**
+- 🌱 Interested in **Game Development, Creative Technology & Interactive Media**
+- 📫 Reach me at **rithratana.hang@gmail.com**
+
+### 🛠️ Tech Stack
+
+**Game Development & Engine**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,godot,cs" />
+</p>
+
+**Web & Software Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,python,dotnet" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
+
+**Other Technologies:** PlayFab • WebGL • Telegram Mini Apps • Coolify
+
+### 🚀 Featured Game Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎮 **TrioWorld** | A 2D vertical platformer featuring charge-based jumping, Telegram Mini App integration, and a global leaderboard. | Godot 4, GDScript, PlayFab |
+| ⚔️ **Path to Ascension** | A 2.5D Metroidvania-style platform-adventure game developed as a university group project. | Unity, C# |
+| 🏁 **Dash Thru** | A motion-controlled multiplayer racing game developed during my first internship at DirexPlay. | Unity, C#, Mirror |
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rithratana-hang/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rithratana.hang@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+  </a>
+</p>
