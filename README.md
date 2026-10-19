@@ -48,21 +48,28 @@ I'm constantly exploring new technologies, learning new tools, and turning ideas
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,python,dotnet" />
 </p>
 
+**Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
 **Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-**Other Technologies:** PlayFab • WebGL • Telegram Mini Apps • Coolify
+**Other Technologies:** PlayFab • WebGL • Telegram Mini Apps • Oracle Cloud
 
-### 🚀 Featured Game Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🎮 **TrioWorld** | A 2D vertical platformer featuring charge-based jumping, Telegram Mini App integration, and a global leaderboard. | Godot 4, GDScript, PlayFab |
 | ⚔️ **Path to Ascension** | A 2.5D Metroidvania-style platform-adventure game developed as a university group project. | Unity, C# |
 | 🏁 **Dash Thru** | A motion-controlled multiplayer racing game developed during my first internship at DirexPlay. | Unity, C#, Mirror |
+| 💰 **BongLuy Bot** | A Telegram bot for managing recurring group payments, automated reminders, member tracking, and monthly payment statuses. | Python, aiogram, SQLite, APScheduler, Oracle Cloud |
 
 ### 🌐 Connect With Me
 
